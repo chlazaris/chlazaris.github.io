@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TADs on Charalampos A. Lazaris</title>
+    <link>/tags/tads/</link>
+    <description>Recent content in TADs on Charalampos A. Lazaris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Charalampos A. Lazaris &amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 24 May 2019 19:49:58 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/tads/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Dynamic 3D Chromatin Architecture Landscape of Acute Leukemia</title>
+      <link>/talk/the-dynamic-3d-chromatin-architecture-landscape-of-acute-leukemia/</link>
+      <pubDate>Fri, 24 May 2019 19:49:58 -0700</pubDate>
+      
+      <guid>/talk/the-dynamic-3d-chromatin-architecture-landscape-of-acute-leukemia/</guid>
+      <description>Presenter: Aristotelis Tsirigos
+Other authors: Andreas Kloetgen, Palaniraja Thandapani, Panagiotis Ntziachristos, Charalampos Lazaris, Xufeng Chen, Hai Hu, Sofia Bakogianni, Jingjing Wang, Thomas Trimarchi, Yixing Zhu, Iannis Aifantis</description>
+    </item>
+    
+    <item>
+      <title>3D Nuclear Organization</title>
+      <link>/project/3d-nuclear-organization/</link>
+      <pubDate>Sun, 29 Jul 2018 18:06:24 -0700</pubDate>
+      
+      <guid>/project/3d-nuclear-organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic 3D chromosomal landscapes in acute leukemia</title>
+      <link>/talk/dynamic-3d-chromosomal-landscapes-in-acute-leukemia/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/dynamic-3d-chromosomal-landscapes-in-acute-leukemia/</guid>
+      <description>Presenter: Palaniraja Thandapani
+Other authors: Andreas Kloetgen, Charalampos Lazaris, Xufeng Chen, Panagiotis Ntziachristos, Aristotelis Tsirigos and Iannis Aifantis</description>
+    </item>
+    
+    <item>
+      <title>Dynamic 3D Chromosomal Landscapes in T-ALL</title>
+      <link>/talk/dynamic-3d-chromosomal-landscapes-in-t-all/</link>
+      <pubDate>Fri, 23 Mar 2018 14:28:45 -0700</pubDate>
+      
+      <guid>/talk/dynamic-3d-chromosomal-landscapes-in-t-all/</guid>
+      <description>Presenter: Andreas Kloetgen
+Other authors: Palaniraja Thandapani, Charalampos Lazaris, Panagiotis Ntziachristos, Aristotelis Tsirigos and Iannis Aifantis</description>
+    </item>
+    
+    <item>
+      <title>Stratification of TAD Boundaries Reveals Preferential Insulation of Super Enhancers by Strong Boundaries</title>
+      <link>/publication/stratification-of-tad-boundaries-reveals-preferential-insulation-of-super-enhancers-by-strong-boundaries/</link>
+      <pubDate>Wed, 07 Feb 2018 22:02:50 -0700</pubDate>
+      
+      <guid>/publication/stratification-of-tad-boundaries-reveals-preferential-insulation-of-super-enhancers-by-strong-boundaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromatin Organization Alterations in Critical Oncogenic Loci in Leukemia</title>
+      <link>/talk/chromatin-organization-alterations-in-critical-oncogenic-loci-in-leukemia/</link>
+      <pubDate>Wed, 26 Apr 2017 15:11:31 -0700</pubDate>
+      
+      <guid>/talk/chromatin-organization-alterations-in-critical-oncogenic-loci-in-leukemia/</guid>
+      <description>Presenter: Aristotelis Tsirigos
+Other authors: Charalampos Lazaris, Panagiotis Ntziachristos, Nikolaos Kourtis, Stephen Kelly and Iannis Aifantis</description>
+    </item>
+    
+    <item>
+      <title>HiC–bench: A computational pipeline for Hi–C analysis, parameter exploration and benchmarking</title>
+      <link>/talk/hicbench-a-computational-pipeline-for-hic-analysis-parameter-exploration-and-bench-marking/</link>
+      <pubDate>Wed, 04 May 2016 15:18:54 -0700</pubDate>
+      
+      <guid>/talk/hicbench-a-computational-pipeline-for-hic-analysis-parameter-exploration-and-bench-marking/</guid>
+      <description>Presenter: Charalampos Lazaris Other authors: Stephen Kelly, Panagiotis Ntziachristos, Iannis Aifantis and Aristotelis Tsirigos</description>
+    </item>
+    
+  </channel>
+</rss>

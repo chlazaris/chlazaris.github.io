@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcription on Charalampos A. Lazaris</title>
+    <link>/tags/transcription/</link>
+    <description>Recent content in Transcription on Charalampos A. Lazaris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Charalampos A. Lazaris &amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 31 Oct 2017 16:11:04 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/transcription/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Low Grade Astrocytoma Mutations in IDH1, P53, and ATRX Cooperate to Block Differentiation of Human Neural Stem Cells via Repression of SOX2</title>
+      <link>/publication/low-grade-astrocytoma-mutations-in-idh1-p53-and-atrx-cooperate-to-block-differentiation-of-human-neural-stem-cells-via-repression-of-sox2/</link>
+      <pubDate>Tue, 31 Oct 2017 16:11:04 -0700</pubDate>
+      
+      <guid>/publication/low-grade-astrocytoma-mutations-in-idh1-p53-and-atrx-cooperate-to-block-differentiation-of-human-neural-stem-cells-via-repression-of-sox2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opposing Functions of H2BK120 Ubiquitylation and H3K79 Methylation in the Regulation of Pluripotency by the Paf1 Complex</title>
+      <link>/publication/opposing-functions-of-h2bk120-ubiquitylation-and-h3k79-methylation-in-the-regulation-of-pluripotency-by-the-paf1-complex/</link>
+      <pubDate>Wed, 08 Mar 2017 17:02:29 -0700</pubDate>
+      
+      <guid>/publication/opposing-functions-of-h2bk120-ubiquitylation-and-h3k79-methylation-in-the-regulation-of-pluripotency-by-the-paf1-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation of Transcriptional Elongation in Pluripotency and Cell Differentiation by the PHD Finger Protein Phf5a</title>
+      <link>/publication/regulation-of-transcriptional-elongation-in-pluripotency-and-cell-differentiation-by-the-phd-finger-protein-phf5a/</link>
+      <pubDate>Mon, 17 Oct 2016 17:41:04 -0700</pubDate>
+      
+      <guid>/publication/regulation-of-transcriptional-elongation-in-pluripotency-and-cell-differentiation-by-the-phd-finger-protein-phf5a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
