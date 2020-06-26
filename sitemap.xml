@@ -282,8 +282,8 @@
     
     <url>
     
-      <loc>/categories/leukemia/</loc>
-      <lastmod>2020-03-25T17:03:38-04:00</lastmod>
+      <loc>/tags/leukemia/</loc>
+      <lastmod>2019-05-24T20:07:43-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -291,8 +291,8 @@
     
     <url>
     
-      <loc>/tags/leukemia/</loc>
-      <lastmod>2019-05-24T20:07:43-07:00</lastmod>
+      <loc>/categories/leukemia/</loc>
+      <lastmod>2020-03-25T17:03:38-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -372,7 +372,7 @@
     
     <url>
     
-      <loc>/categories/stress/</loc>
+      <loc>/tags/stress/</loc>
       <lastmod>2020-03-25T17:03:38-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -381,7 +381,7 @@
     
     <url>
     
-      <loc>/tags/stress/</loc>
+      <loc>/categories/stress/</loc>
       <lastmod>2020-03-25T17:03:38-04:00</lastmod>
       <priority>0</priority>
     </url>
