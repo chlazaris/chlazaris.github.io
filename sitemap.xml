@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/rna-mediated-feedback-control-of-transcriptional-condensates/</loc>
+      <lastmod>2020-12-18T17:20:36-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/extent_and_context_dependence_of_pleiotropy_revealed_by_high-throughput_single-cell_phenotyping/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
     </url>
@@ -229,7 +237,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <lastmod>2020-12-18T17:20:36-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -290,7 +298,7 @@
     
     <url>
     
-      <loc>/categories/leukemia/</loc>
+      <loc>/tags/leukemia/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -299,7 +307,7 @@
     
     <url>
     
-      <loc>/tags/leukemia/</loc>
+      <loc>/categories/leukemia/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -363,7 +371,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <lastmod>2020-12-18T17:20:36-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -380,7 +388,7 @@
     
     <url>
     
-      <loc>/categories/stress/</loc>
+      <loc>/tags/stress/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -389,7 +397,7 @@
     
     <url>
     
-      <loc>/tags/stress/</loc>
+      <loc>/categories/stress/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
       <priority>0</priority>
     </url>
