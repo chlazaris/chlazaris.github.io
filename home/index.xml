@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Charalampos A. Lazaris</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Charalampos A. Lazaris &amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,8 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release</description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
@@ -82,11 +83,11 @@
       
       <guid>/home/teaching/</guid>
       <description>Training
-  Kaufman Teaching Certificate Program from the Teaching and Learning Lab at Massachusetts Institute of Technology (https://tll.mit.edu/) (February-May 2021).
-  Teaching Certificate in Higher Education from the Derek Bok Center for Teaching and Learning at Harvard University (https://bokcenter.harvard.edu/) (October 2018-January 2019).
+ Kaufman Teaching Certificate Program from the Teaching and Learning Lab at Massachusetts Institute of Technology (https://tll.mit.edu/) (February-May 2021).
+ Teaching Certificate in Higher Education from the Derek Bok Center for Teaching and Learning at Harvard University (https://bokcenter.harvard.edu/) (October 2018-January 2019).
   Teaching experience
 I served as a graduate teaching assistant for the following courses at the University of Crete (Greece):
-  &amp;ldquo;Biochemistry and Microbiology&amp;rdquo;, Department of Biology, Spring 2008</description>
+ &amp;ldquo;Biochemistry and Microbiology&amp;rdquo;, Department of Biology, Spring 2008</description>
     </item>
     
     <item>
