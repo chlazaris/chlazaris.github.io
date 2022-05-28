@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Charalampos A. Lazaris</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Charalampos A. Lazaris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Charalampos A. Lazaris &amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RNA-Mediated Feedback Control of Transcriptional Condensates</title>
+      <link>/publication/rna-mediated-feedback-control-of-transcriptional-condensates/</link>
+      <pubDate>Fri, 18 Dec 2020 17:07:55 -0500</pubDate>
+      
+      <guid>/publication/rna-mediated-feedback-control-of-transcriptional-condensates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extent and context dependence of pleiotropy revealed by high-throughput single-cell phenotyping</title>
+      <link>/publication/extent_and_context_dependence_of_pleiotropy_revealed_by_high-throughput_single-cell_phenotyping/</link>
+      <pubDate>Tue, 18 Aug 2020 09:23:41 -0400</pubDate>
+      
+      <guid>/publication/extent_and_context_dependence_of_pleiotropy_revealed_by_high-throughput_single-cell_phenotyping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional Chromatin Landscapes in T-Cell Acute Lymphoblastic Leukemia</title>
+      <link>/publication/three-dimensional-chromatin-landscapes-in-t-cell-acute-lymphoblastic-leukemia/</link>
+      <pubDate>Tue, 24 Mar 2020 19:30:22 -0400</pubDate>
+      
+      <guid>/publication/three-dimensional-chromatin-landscapes-in-t-cell-acute-lymphoblastic-leukemia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Epigenetic Plasticity and Genome Topology</title>
+      <link>/publication/on-epigenetic-plasticity-and-genome-topology/</link>
+      <pubDate>Wed, 19 Feb 2020 10:36:25 -0500</pubDate>
+      
+      <guid>/publication/on-epigenetic-plasticity-and-genome-topology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oncogenic Hijacking of the Stress Response Machinery in T Cell Acute Lymphoblastic Leukemia</title>
+      <link>/publication/oncogenic-hijacking-of-the-stress-response-machinery-in-t-cell-acute-lymphoblastic-leukemia/</link>
+      <pubDate>Mon, 23 Jul 2018 12:13:40 -0700</pubDate>
+      
+      <guid>/publication/oncogenic-hijacking-of-the-stress-response-machinery-in-t-cell-acute-lymphoblastic-leukemia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of Dysregulated Cytokine Signaling and Bacterial Triggers in the Pathogenesis of Cutaneous T-Cell Lymphoma</title>
+      <link>/publication/role-of-dysregulated-cytokine-signaling-and-bacterial-triggers-in-the-pathogenesis-of-cutaneous-t-cell-lymphoma/</link>
+      <pubDate>Sat, 17 Feb 2018 15:46:37 -0700</pubDate>
+      
+      <guid>/publication/role-of-dysregulated-cytokine-signaling-and-bacterial-triggers-in-the-pathogenesis-of-cutaneous-t-cell-lymphoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stratification of TAD Boundaries Reveals Preferential Insulation of Super Enhancers by Strong Boundaries</title>
+      <link>/publication/stratification-of-tad-boundaries-reveals-preferential-insulation-of-super-enhancers-by-strong-boundaries/</link>
+      <pubDate>Wed, 07 Feb 2018 22:02:50 -0700</pubDate>
+      
+      <guid>/publication/stratification-of-tad-boundaries-reveals-preferential-insulation-of-super-enhancers-by-strong-boundaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Grade Astrocytoma Mutations in IDH1, P53, and ATRX Cooperate to Block Differentiation of Human Neural Stem Cells via Repression of SOX2</title>
+      <link>/publication/low-grade-astrocytoma-mutations-in-idh1-p53-and-atrx-cooperate-to-block-differentiation-of-human-neural-stem-cells-via-repression-of-sox2/</link>
+      <pubDate>Tue, 31 Oct 2017 16:11:04 -0700</pubDate>
+      
+      <guid>/publication/low-grade-astrocytoma-mutations-in-idh1-p53-and-atrx-cooperate-to-block-differentiation-of-human-neural-stem-cells-via-repression-of-sox2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opposing Functions of H2BK120 Ubiquitylation and H3K79 Methylation in the Regulation of Pluripotency by the Paf1 Complex</title>
+      <link>/publication/opposing-functions-of-h2bk120-ubiquitylation-and-h3k79-methylation-in-the-regulation-of-pluripotency-by-the-paf1-complex/</link>
+      <pubDate>Wed, 08 Mar 2017 17:02:29 -0700</pubDate>
+      
+      <guid>/publication/opposing-functions-of-h2bk120-ubiquitylation-and-h3k79-methylation-in-the-regulation-of-pluripotency-by-the-paf1-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiC-bench: comprehensive and reproducible Hi-C data analysis designed for parameter exploration and benchmarking</title>
+      <link>/publication/hic-bench-comprehensive-and-reproducible-hi-c-data-analysis-designed-for-parameter-exploration-and-benchmarking/</link>
+      <pubDate>Thu, 05 Jan 2017 17:25:45 -0700</pubDate>
+      
+      <guid>/publication/hic-bench-comprehensive-and-reproducible-hi-c-data-analysis-designed-for-parameter-exploration-and-benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation of Transcriptional Elongation in Pluripotency and Cell Differentiation by the PHD Finger Protein Phf5a</title>
+      <link>/publication/regulation-of-transcriptional-elongation-in-pluripotency-and-cell-differentiation-by-the-phd-finger-protein-phf5a/</link>
+      <pubDate>Mon, 17 Oct 2016 17:41:04 -0700</pubDate>
+      
+      <guid>/publication/regulation-of-transcriptional-elongation-in-pluripotency-and-cell-differentiation-by-the-phd-finger-protein-phf5a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ubiquitin Ligase Huwe1 Regulates the Maintenance and Lymphoid Commitment of Hematopoietic Stem Cells</title>
+      <link>/publication/the-ubiquitin-ligase-huwe1-regulates-the-maintenance-and-lymphoid-commitment-of-hematopoietic-stem-cells/</link>
+      <pubDate>Mon, 26 Sep 2016 13:25:41 -0700</pubDate>
+      
+      <guid>/publication/the-ubiquitin-ligase-huwe1-regulates-the-maintenance-and-lymphoid-commitment-of-hematopoietic-stem-cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FBXW7 modulates cellular stress response and metastatic potential through HSF1 post-translational modification</title>
+      <link>/publication/fbxw7-modulates-cellular-stress-response-and-metastatic-potential-through-hsf1-post-translational-modification/</link>
+      <pubDate>Fri, 27 Feb 2015 13:38:46 -0700</pubDate>
+      
+      <guid>/publication/fbxw7-modulates-cellular-stress-response-and-metastatic-potential-through-hsf1-post-translational-modification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

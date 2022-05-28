@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leukemia on Charalampos A. Lazaris</title>
+    <link>/tags/leukemia/</link>
+    <description>Recent content in Leukemia on Charalampos A. Lazaris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Charalampos A. Lazaris &amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 24 May 2019 19:49:58 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/leukemia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Dynamic 3D Chromatin Architecture Landscape of Acute Leukemia</title>
+      <link>/talk/the-dynamic-3d-chromatin-architecture-landscape-of-acute-leukemia/</link>
+      <pubDate>Fri, 24 May 2019 19:49:58 -0700</pubDate>
+      
+      <guid>/talk/the-dynamic-3d-chromatin-architecture-landscape-of-acute-leukemia/</guid>
+      <description>Presenter: Aristotelis Tsirigos
+Other authors: Andreas Kloetgen, Palaniraja Thandapani, Panagiotis Ntziachristos, Charalampos Lazaris, Xufeng Chen, Hai Hu, Sofia Bakogianni, Jingjing Wang, Thomas Trimarchi, Yixing Zhu, Iannis Aifantis</description>
+    </item>
+    
+    <item>
+      <title>Oncogenic Hijacking of the Stress Response Machinery in T Cell Acute Lymphoblastic Leukemia</title>
+      <link>/publication/oncogenic-hijacking-of-the-stress-response-machinery-in-t-cell-acute-lymphoblastic-leukemia/</link>
+      <pubDate>Mon, 23 Jul 2018 12:13:40 -0700</pubDate>
+      
+      <guid>/publication/oncogenic-hijacking-of-the-stress-response-machinery-in-t-cell-acute-lymphoblastic-leukemia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic 3D chromosomal landscapes in acute leukemia</title>
+      <link>/talk/dynamic-3d-chromosomal-landscapes-in-acute-leukemia/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/dynamic-3d-chromosomal-landscapes-in-acute-leukemia/</guid>
+      <description>Presenter: Palaniraja Thandapani
+Other authors: Andreas Kloetgen, Charalampos Lazaris, Xufeng Chen, Panagiotis Ntziachristos, Aristotelis Tsirigos and Iannis Aifantis</description>
+    </item>
+    
+  </channel>
+</rss>
