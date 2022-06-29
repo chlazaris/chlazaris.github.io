@@ -253,15 +253,6 @@
     
     <url>
     
-      <loc>/tags/cancer/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -306,42 +297,6 @@
     
     <url>
     
-      <loc>/categories/leukemia/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/leukemia/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/melanoma/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/nuclear-organization/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/paf1/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
       <priority>0</priority>
@@ -352,15 +307,6 @@
     <url>
     
       <loc>/tags/phf5a/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/pluripotency/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -387,42 +333,6 @@
     
     <url>
     
-      <loc>/tags/stem-cells/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/stress/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/stress/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/super-enhancers/</loc>
-      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/t-all/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
       <priority>0</priority>
@@ -442,6 +352,96 @@
     <url>
     
       <loc>/tags/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cancer/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/leukemia/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/leukemia/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/melanoma/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/nuclear-organization/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pluripotency/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/stem-cells/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/stress/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/stress/</loc>
+      <lastmod>2020-08-19T09:23:12-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/super-enhancers/</loc>
       <lastmod>2020-08-19T09:23:12-04:00</lastmod>
       <priority>0</priority>
     </url>
